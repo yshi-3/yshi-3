@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yshi-3
 - 👀 I’m interested in building websites and cybersecurity
 - 🌱 I’m a high school student, currently learning python and AP Computer Science Principles 
-- 📫 ig: 
+- 📫 ig: abigail.s_074
 - 😄 Pronouns: she,her
 - ⚡ Fun fact: student athlete
 
