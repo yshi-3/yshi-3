@@ -1,2 +1,10 @@
 - 👋 Hi, I’m @yshi-3
 - 📫 ig: abigailshi_07
+- I am a developer passionate about artificial intelligence, educational technology, and creating meaningful digital experiences. I enjoy turning ideas into practical applications that help people learn, create, and communicate more effectively.
+- Current Interests
+- Artificial Intelligence & Machine Learning
+- Human-Computer Interaction
+- Educational Technology
+- Full-Stack Development
+- AI-Powered Creativity Tools
+- Cybersecurity
